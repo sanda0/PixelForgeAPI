@@ -4,3 +4,5 @@ class Resize:
     self.img = img
     self.w = w
     self.h = h
+    
+    
